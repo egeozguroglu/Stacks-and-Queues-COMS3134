@@ -1,6 +1,4 @@
-# Homework 2
-
-Please remember that to submit the assignment you must click Mark as Complete under the Education menu in the toolbar.
+# Data Structures in Java - Programming 2
 
 ## Problem 1 - MyStack - 15 points
 
